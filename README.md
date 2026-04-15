@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [NOTES TAKING APP](https://github.com/ashutoshs007/NOTES-TAKING-APP)
+- 🔭 I’m currently working on [ONLINE PHARMACY AND MEDICINE DELIVERY](https://github.com/ashutoshs007/online-pharmacy-and-medicine-delivery)
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **JAVA SPRINGBOOT*
 
 - 👯 I’m looking to collaborate on **WEB DEV AND AI PROJECTS**
 
