@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar Singh</h1>
-<h3 align="center">A passionate frontend developer from India who loves to build the products which are scalable and which adds meaning to your work.</h3>
+<h3 align="center">A passionate full stack developer/ML enthusiast from India who loves to build the products which are scalable and which adds meaning to your work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshs007&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshs007" /> </p>
 
